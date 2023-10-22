@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.80dc7c8c.css","mappings":"AAAA,QACI,SAAU,CACV,eACJ,CAEA,MACI,UAAW,CACX,kBACJ","sources":["components/navbar.css"],"sourcesContent":[".active {\r\n    color: red;\r\n    font-weight: bold;\r\n}\r\n\r\n.blue {\r\n    color: blue;\r\n    font-weight: bolder;\r\n}"],"names":[],"sourceRoot":""}
